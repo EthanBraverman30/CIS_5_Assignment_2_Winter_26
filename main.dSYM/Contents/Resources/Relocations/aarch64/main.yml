@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ethanbraverman/Documents/GitHub/CIS_5_Assignment_2_Winter_26/main'
+relocations:     []
+...
